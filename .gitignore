@@ -1,0 +1,12 @@
+# keys & credentials
+keys/
+*.env
+.env
+
+# python stuff
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
